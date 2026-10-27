@@ -86,7 +86,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 **Bhargav Sinha** — Software Engineer · Full-Stack MERN Developer
 
 - GitHub: [@Bhargav9334](https://github.com/Bhargav9334)
-- Portfolio: [portfolio-blush-sigma-22.vercel.app](https://portfolio-blush-sigma-22.vercel.app)
+- Portfolio: [bhargavsinha.vercel.app](https://bhargavsinha.vercel.app)
 - Email: bhargavsinha93@gmail.com
 
 If you found this project useful, consider giving it a ⭐
